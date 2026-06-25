@@ -13,7 +13,7 @@ L'objectif est de simplifier la gestion des ressources Kafka pour les applicatio
 
 ## Exemples
 
-```hcl
+```hcldsqsdsdqqd
 module "confluent_fonctionnel" {
   source = "github.com/ugieiris/tf-module-confluent-fonctionnel?ref=v1.0.0"
 
