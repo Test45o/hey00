@@ -11,14 +11,14 @@ Il permet de provisionner de manière déclarative :
 
 gfdsfdsfdfddsqdsqdsqdsq
 
-L'objectif est de simplifier la gestion des ressources Kafka pour les applications en centralisant leur définition dans une structure de variables claire.
+L'objectif est de simplifier la gestion des ressources Kafka podsqdsqdsqdsqur les applications en centralisant leur définition dans une structure de variables claire.
 
 ## Exemplesfdqfqdfqdf
 
 ```hcl
 module "confluent_fonctionnel" {
   source = "github.com/ugieiris/tf-module-confluent-fonctionnel?ref=v1.0.0"
-
+dsqdsqdsqdsqdsq
   confluent_environment_name = "prep-europe-west9"
   confluent_cluster_name     = "preprod-europe-west9"
 
