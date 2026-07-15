@@ -9,6 +9,8 @@ Ce module Terraform agit comme un module "chapeau" (umbrella), offrant une inter
 Il permet de provisionner de manière déclarative :
 -   Des **Topics Kafka**, en incluant leur configuration détaillée (partitions, rétention, etc.) et la gestion de leur schéma associé dans le Schema Registry.
 
+gfdsfdsfdfd
+
 L'objectif est de simplifier la gestion des ressources Kafka pour les applications en centralisant leur définition dans une structure de variables claire.
 
 ## Exemplesfdqfqdfqdf
