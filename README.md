@@ -11,7 +11,7 @@ Il permet de provisionner de manière déclarative :
 
 L'objectif est de simplifier la gestion des ressources Kafka pour les applications en centralisant leur définition dans une structure de variables claire.
 
-## Exemplesfdqfqdfqdfdsqdsqdsqdsq
+## Exemplesfdqfqdfqdf
 
 ```hcl
 module "confluent_fonctionnel" {
