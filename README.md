@@ -17,7 +17,7 @@ L'objectif est de simplifier la gestion des ressources Kafka podsqdsqdsqdsqur le
 
 ```hcl
 module "confluent_fonctionnel" {
-  source = "github.com/ugieiris/tf-module-confluent-fonctionnel?ref=v1.0.0"
+  source = "github.com/ugieiris/tf-module-confluent-fonctionnel?ref=v1.0.0"dsqqdsdsqdsdsq
 dsqdsqdsqdsqdsq
   confluent_environment_name = "prep-europe-west9"
   confluent_cluster_name     = "preprod-europe-west9"
