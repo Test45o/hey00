@@ -1,7 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
 # tf-module-confluent-fonctionnel
 > Module Terraform "chapeau" pour la création et la gestion des ressources fonctionnelles (topics) pour les applications métier sur la plateforme Confluent Cloud.
-
+dsqdsqdsqdsq
 # Description
 
 Ce module Terraform agit comme un module "chapeau" (umbrella), offrant une interface unifiée pour que les équipes applicatives puissent déclarer et gérer leurs ressources sur Confluent Cloud.
